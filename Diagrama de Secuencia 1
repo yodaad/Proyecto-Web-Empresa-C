@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-05-01T21:44:40.326Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.41 Safari/537.36" etag="0al-Htq6m84wpndR-Cpz" version="17.5.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-05-01T21:49:44.118Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.41 Safari/537.36" etag="o2QOFKDRSRGljj7DKh5U" version="17.5.0" type="github" pages="2">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Agendamiento">
-    <mxGraphModel dx="434" dy="269" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#F1FAEE" math="0" shadow="0">
+    <mxGraphModel dx="2068" dy="1283" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#F1FAEE" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -56,7 +56,7 @@
             <mxPoint x="707" y="740" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3nuBFxr9cyL0pnOWT2aG-8" value="Cliente_Accede_Perfil_Doctor" style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;labelBackgroundColor=#F1FAEE;strokeColor=#457B9D;fontColor=#1D3557;rounded=1;entryX=-0.267;entryY=0.25;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="3nuBFxr9cyL0pnOWT2aG-1" target="3nuBFxr9cyL0pnOWT2aG-6" edge="1">
+        <mxCell id="3nuBFxr9cyL0pnOWT2aG-8" value="Cliente_Solicita_Perfil_Doctor" style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;labelBackgroundColor=#F1FAEE;strokeColor=#457B9D;fontColor=#1D3557;rounded=1;entryX=-0.267;entryY=0.25;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="3nuBFxr9cyL0pnOWT2aG-1" target="3nuBFxr9cyL0pnOWT2aG-6" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="82" y="160" as="sourcePoint" />
             <mxPoint x="310" y="160" as="targetPoint" />
@@ -142,7 +142,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Búsqueda" id="ariF2kqUs42Guw9kz8Rn">
-    <mxGraphModel dx="448" dy="278" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#F1FAEE" math="0" shadow="0">
+    <mxGraphModel dx="309" dy="192" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#F1FAEE" math="0" shadow="0">
       <root>
         <mxCell id="sS7Q0wl03884_nsqASyX-0" />
         <mxCell id="sS7Q0wl03884_nsqASyX-1" parent="sS7Q0wl03884_nsqASyX-0" />
@@ -198,7 +198,7 @@
             <mxPoint x="707" y="740" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="sS7Q0wl03884_nsqASyX-14" value="Cliente_Accede_Perfill_Doctor" style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;labelBackgroundColor=#F1FAEE;strokeColor=#457B9D;fontColor=#1D3557;rounded=1;entryX=-0.267;entryY=0.25;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="sS7Q0wl03884_nsqASyX-1" source="sS7Q0wl03884_nsqASyX-16" target="sS7Q0wl03884_nsqASyX-6">
+        <mxCell id="sS7Q0wl03884_nsqASyX-14" value="Cliente_Filtra_&amp;_Busca" style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;labelBackgroundColor=#F1FAEE;strokeColor=#457B9D;fontColor=#1D3557;rounded=1;entryX=-0.267;entryY=0.25;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="sS7Q0wl03884_nsqASyX-1" source="sS7Q0wl03884_nsqASyX-16" target="sS7Q0wl03884_nsqASyX-6">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="82" y="160" as="sourcePoint" />
             <mxPoint x="310" y="160" as="targetPoint" />

@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2023-04-15T19:52:55.790Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="TTIt4azz-oDyEg3Z-jOu" version="21.1.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-15T19:54:38.042Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="y2IvI_0U1EQ0Evhp70HO" version="21.1.8" type="github">
   <diagram name="Page-1" id="Q1OAbZtpIWCuZTtXmBnG">
-    <mxGraphModel dx="2864" dy="1672" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1000" pageHeight="700" math="0" shadow="0">
+    <mxGraphModel dx="1432" dy="836" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1000" pageHeight="700" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="rJQFzHRJYnLD_gGD8G43-1" value="Cliente" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+        <mxCell id="rJQFzHRJYnLD_gGD8G43-1" value="&lt;b&gt;Cliente&lt;/b&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="38" y="280" width="80" height="160" as="geometry" />
         </mxCell>
         <mxCell id="rJQFzHRJYnLD_gGD8G43-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -42,9 +42,6 @@
         </mxCell>
         <mxCell id="rJQFzHRJYnLD_gGD8G43-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1" source="rJQFzHRJYnLD_gGD8G43-1" target="rJQFzHRJYnLD_gGD8G43-8">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="rJQFzHRJYnLD_gGD8G43-22" value="Cliente" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="38" y="280" width="80" height="160" as="geometry" />
         </mxCell>
         <mxCell id="rJQFzHRJYnLD_gGD8G43-23" value="VER PRODUCTOS" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="308" y="70" width="120" height="80" as="geometry" />
@@ -95,7 +92,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="rJQFzHRJYnLD_gGD8G43-38" value="Administrador" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="rJQFzHRJYnLD_gGD8G43-38" value="&lt;b&gt;Administrador&lt;/b&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="868" y="280" width="80" height="160" as="geometry" />
         </mxCell>
       </root>
